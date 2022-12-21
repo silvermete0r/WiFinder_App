@@ -6,5 +6,6 @@ The application has 3 main screens:
 2) With a long click to item, detailed information about the access point is displayed.
 3) With a short click to item, a tool is displayed to find the exact location of the wi-fi point by sounds of different frequencies.
 
-- The program was written in `Java` using the `Android Studio IDE`.
-- MIT license -> `licence`
+- APK file to download the application **WiFinder** -> `app-debug.apk`;
+- The program was written in `Java` using the `Android Studio IDE`;
+- MIT license -> `licence`.
